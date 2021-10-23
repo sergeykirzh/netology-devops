@@ -1,5 +1,7 @@
 Задача 1
 --------
+**Подготовка рабочей среды**
+
 **Terraform**
 ![Terraform](img/terraform.png)
 
